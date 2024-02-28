@@ -1,2 +1,2 @@
-# E-Commerce-web
-simple inovative Web
+# Ecommerce-website
+Build Ecommerce website using Html,Css,Js.
